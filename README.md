@@ -1,1 +1,1 @@
-Repository for the Shell Basics project task.
+Repository for the Shell Basics project tasks.
