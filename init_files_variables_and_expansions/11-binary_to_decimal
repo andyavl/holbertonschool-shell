@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.10f" $BINARY
+echo $((2#$BINARY))
