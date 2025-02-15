@@ -1,2 +1,2 @@
 #!/bin/bash
-find -maxdepth 2 -empty | rev | cut -d '/' -f1 | rev
+find -maxdepth 2 -empty | rev | echo -e $( cut -d '/' -f1) \\n | rev
