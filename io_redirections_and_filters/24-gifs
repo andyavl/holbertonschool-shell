@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -maxdepth 2 -type f | rev | cut -d '/' -f1 | rev | cut -d '.' -f1
